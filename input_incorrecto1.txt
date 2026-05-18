@@ -1,0 +1,4 @@
+usuario Test {
+    edad = 25
+    activo = falso;
+}

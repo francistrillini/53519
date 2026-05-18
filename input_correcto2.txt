@@ -1,0 +1,5 @@
+usuario AdminConfig {
+    rol = "Superusuario";
+    sesion = 120;
+    notificaciones = falso;
+}

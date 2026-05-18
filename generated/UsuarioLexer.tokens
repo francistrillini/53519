@@ -1,0 +1,15 @@
+T__0=1
+ILLAVE=2
+DLLAVE=3
+ASIGNACION=4
+PUNTOCOMA=5
+BOOLEANO=6
+ID=7
+NUMERO=8
+CADENA=9
+WS=10
+'usuario'=1
+'{'=2
+'}'=3
+'='=4
+';'=5
